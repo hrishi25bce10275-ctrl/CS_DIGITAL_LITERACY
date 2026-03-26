@@ -18,4 +18,4 @@
 
 ---
 
-*Save this content as `social-media-checklist.md` inside your `task-4-email-etiquette/` folder on GitHub for easy reference and sharing.*
+
