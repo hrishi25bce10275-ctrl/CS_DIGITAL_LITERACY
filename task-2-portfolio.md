@@ -1,1 +1,1 @@
-![GitHUB Profile](../GitHub.png)
+![GitHUB Profile](GitHub.png)
