@@ -24,7 +24,7 @@ In 2023, a VIT student lost ₹45,000 when a phishing email posing as SBI urged 
 ## Primary Source for VIT Phishing Proof
 
 **Full Article Link**:  
-[Phishing scam: VIT professor defrauded of Rs 6.93 lakh](https://www.edexlive.com/news/phishing-scam-vit-professordefrauded-of-rs-693-lakh-36278.html) [web:2]
+[Phishing scam: VIT professor defrauded of Rs 6.93 lakh](https://www.edexlive.com/news/phishing-scam-vit-professordefrauded-of-rs-693-lakh-36278.html)
 
 **Publisher**: EdexLive (part of New Indian Express Group)  
 **Published**: July 7, 2023  
