@@ -1,2 +1,1 @@
 # CS_DIGITAL_LITERACY
-![GitHUB](GitHub.png)
