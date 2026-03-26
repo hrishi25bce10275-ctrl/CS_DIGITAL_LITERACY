@@ -21,7 +21,7 @@
 - **Don't share semester/exam details** publicly - helps scammers time phishing attacks
 - **Screenshot fake job/internship offers** before responding - verify company domain first
 
-#  Immediate Action Required
+#  The Reporting Channel
 
 **National Cyber Crime Portal**: [cybercrime.gov.in](https://cybercrime.gov.in) 
 
