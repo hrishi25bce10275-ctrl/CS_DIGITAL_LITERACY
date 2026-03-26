@@ -1,6 +1,10 @@
+# Part-A
+
 # Hacker Rank
 
 ![Hacker_Rank](Hacker_Rank.png)
+
+# Part-B
 
 # Google Forms
 
