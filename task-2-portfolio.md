@@ -1,4 +1,4 @@
-# GitHub_Profile
+# GitHub Profile
 
 ![GitHub_Profile](GitHub.png)
 
