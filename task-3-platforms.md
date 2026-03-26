@@ -1,4 +1,4 @@
-![Hacker_Rank]([Hacker_Rank.png)
+![Hacker_Rank](Hacker_Rank.png)
 ![Google_Form-1](Google_Form-1.png)
 ![Google_Form-2](Google_Form-2.png)
 ![Google_Form-3](Google_Form-3.png)
