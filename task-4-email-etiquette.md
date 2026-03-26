@@ -1,4 +1,4 @@
-EMAIL-1:
+EMAIL-1:-
 
 Subject: Request for Assignment Deadline Extension
 
@@ -18,7 +18,7 @@ First Year, Computer Science Core
 
 VIT Bhopal
 
-EMAIL-2:
+EMAIL-2:-
 
 Subject: Application for Summer Internship Opportunity
 
