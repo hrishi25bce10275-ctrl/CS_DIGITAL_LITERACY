@@ -18,3 +18,8 @@
 - **Screenshot fake job/internship offers** before responding - verify company domain first
 
 ## Emergency Reporting
+#  Immediate Action Required
+
+**National Cyber Crime Portal**: [cybercrime.gov.in](https://cybercrime.gov.in) [file:1]
+
+**Helpline**: **1930** (24×7 Cyber Fraud Helpline) [file:1]
