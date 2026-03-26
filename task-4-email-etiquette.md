@@ -11,11 +11,14 @@ I sincerely apologize for any inconvenience caused. I am committed to completing
 Thank you for your understanding and consideration. I look forward to your response.
 
 Yours sincerely,
+
 Hrishi Upadhyay
 
 First Year, Computer Science Core
 
 VIT Bhopal
+
+
 
 EMAIL-2:-
 
