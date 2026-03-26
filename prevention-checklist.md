@@ -20,6 +20,6 @@
 ## Emergency Reporting
 #  Immediate Action Required
 
-**National Cyber Crime Portal**: [cybercrime.gov.in](https://cybercrime.gov.in) [file:1]
+**National Cyber Crime Portal**: [cybercrime.gov.in](https://cybercrime.gov.in) 
 
-**Helpline**: **1930** (24×7 Cyber Fraud Helpline) [file:1]
+**Helpline**: **1930** (24×7 Cyber Fraud Helpline) 
