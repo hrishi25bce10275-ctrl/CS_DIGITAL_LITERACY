@@ -32,7 +32,7 @@ In 2023, a VIT student lost ₹45,000 when a phishing email posing as SBI urged 
 
 **Additional Context**: Reported by Vellore district cyber crime police. Demonstrates real phishing tactics at VIT campuses.
 
-Paste this directly into your GitHub repo for citation verification.
+
 
 ## Consequences
 
@@ -42,4 +42,4 @@ Paste this directly into your GitHub repo for citation verification.
 - **Reputation Harm**: Compromised college email used for further scams.
 - **Legal Issues**: Potential liability if stolen accounts used for crimes.
 
-*Word count: 238*
+
