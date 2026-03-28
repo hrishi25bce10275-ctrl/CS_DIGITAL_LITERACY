@@ -1,8 +1,8 @@
 # CS_DIGITAL_LITERACY
 # Digital Literacy Project
 
-**Hrishi Upadhyay, Reg No. 25BCE10275**  
-First-year B.Tech Computer Science student. Course: CSE0001, Date: March 30, 2026.
+**NAME- Hrishi Upadhyay, Reg No.:- 25BCE10275**  
+YEAR- First-year B.Tech Computer Science student. Course: CSE0001, Date: March 30, 2026.
 
 ## Project Overview
 
