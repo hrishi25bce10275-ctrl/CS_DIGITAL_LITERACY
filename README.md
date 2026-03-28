@@ -1,17 +1,11 @@
 # CS_DIGITAL_LITERACY
 # Digital Literacy Project
 ## About Me
-Name- Hrishi Upadhyay
-
-Reg No.- 25BCE10275
-
-Year- First-year 
-
-Branch- B.Tech Computer Science 
-
-Course Code- CSE0001
-
-Date- March 30, 2026
+**Name-** Hrishi Upadhyay
+**Reg No.-** 25BCE10275
+**Year-** First-year 
+**Branch-** B.Tech Computer Science 
+**Course Code-** CSE0001
 
 ## Project Overview
 
