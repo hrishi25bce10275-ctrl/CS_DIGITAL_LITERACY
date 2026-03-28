@@ -1,11 +1,11 @@
 # CS_DIGITAL_LITERACY
 # Digital Literacy Project
 
-Name- Hrishi Upadhyay**
+Name- Hrishi Upadhyay
 
 Reg No.- 25BCE10275
-Year- First-year 
 
+Year- First-year 
 
 Branch- B.Tech Computer Science 
 
